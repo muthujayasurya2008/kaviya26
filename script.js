@@ -100,7 +100,7 @@ noBtn.addEventListener("click", function () {
 yesBtn.addEventListener("click", function () {
   alertBox.style.display = "none"; // hide top alert if showing
 
-  showBigMessage("I want to grow old with you from holding your hand to calling you mine. I want to text you good morning until the mornings are next to you. Until your face is the first thing I see, and I don't need my phone to tell you what happened today anymore. I want to carry your phone when you don't have pockets and Your lip gloss , the small things that matters because they are yours And God knows I want you because you make me weak. When you walk into the room in that deadly, gorgeous eyes.I need you like I need air. Like my body knows you are home before my mind catches up.And that's what I love you really means 💗");
+  showBigMessage("I want to grow old with you from holding your hand to calling you mine. I want to text you good morning until the mornings are next to you. Until your face is the first thing I see, and I don't need my phone to tell you what happened today anymore. I want to carry your phone when you don't have pockets and Your hair clip, the small things that matters because they are yours And God knows I want you because you make me weak. When you walk into the room in that deadly, gorgeous eyes.I need you like I need air. Like my body knows you are home before my mind catches up.And that's what I love you really means 💗");
 
   // glow effect
   card.style.boxShadow =
@@ -126,3 +126,4 @@ yesBtn.addEventListener("click", function () {
   yesBtn.style.cursor = "not-allowed";
   noBtn.style.cursor = "not-allowed";
 });
+
